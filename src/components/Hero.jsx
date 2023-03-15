@@ -33,7 +33,7 @@ const Hero = () => {
         text-center shadow-xl"
         >
           <p>Data Services</p>
-          <div className="flex justify-between px-1">
+          <div className="flex justify-between flex-wrap px-4">
             <p className="flex px-4 py-2 text-slate-500">
               <CloudUploadIcon className="h-6 text-indigo-600" /> App Security
             </p>
